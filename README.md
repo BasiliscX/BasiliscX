@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **Typescript, Java, C++.**
 
-- 📄 Know about my experiences [I work in the development of APIs at UTN, which optimize the workflow by converting documentation to digital data.](I work in the development of APIs at UTN, which optimize the workflow by converting documentation to digital data.)
+- 📄 Know about my experiences I work in the development of APIs at UTN, which optimize the workflow by converting documentation to digital data.
 
 - ⚡ Fun fact **I am usually the one who keeps the meetings focused on the proposed topics 📊, but also the one who invites you for a beer after the meeting. 🍻**
 

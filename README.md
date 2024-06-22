@@ -1,6 +1,8 @@
 # 💫 About Me:
 Hi 👋, I'm Guillermo Navarro<br>A passionate frontend developer from Argentina<br><br>🌱 I’m currently learning ASSOCIATE DEGREE IN PROGRAMMING | NATIONAL TECHNOLOGICAL UNIVERSITY - BACHELOR´S DEGREE UN DATA ANALYSIS AND MANAGEMENT | NATIONAL UNIVERSITY OF SAN LUIS<br><br>💬 Ask me about Typescript, Java, C++.<br><br>📄 Know about my experiences: I work in the development of APIs at UTN, which optimize the workflow by converting documentation to digital data.<br><br>⚡ Fun fact: I am usually the one who keeps the meetings focused on the proposed topics 📊, but also the one who invites you for a beer after the meeting. 🍻
 
+## Portfolio
+Visit my portfolio in this [link](https://guillermo-navarro.vercel.app/)
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/guillermo-navarro-61a4a5263/) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@lapreguntafalopa) 

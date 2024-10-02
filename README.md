@@ -1,8 +1,5 @@
 # 💫 About Me:
-Hi 👋, I'm Guillermo Navarro<br>A passionate software developer from Argentina<br><br>🌱 I’m currently learning ASSOCIATE DEGREE IN PROGRAMMING | NATIONAL TECHNOLOGICAL UNIVERSITY - BACHELOR´S DEGREE UN DATA ANALYSIS AND MANAGEMENT | NATIONAL UNIVERSITY OF SAN LUIS<br><br>🔭 I’m currently working on [Tiendita App](https://github.com/alunissage-tech/Tiendita/tree/develop)<br><br>💬 Ask me about Typescript, Java, C++.<br><br>📄 Know about my experiences: I work in the development of APIs at UTN, which optimize the workflow by converting documentation to digital data.<br><br>⚡ Fun fact: I am usually the one who keeps the meetings focused on the proposed topics 📊, but also the one who invites you for a beer after the meeting. 🍻
-
-## Workteam!
-For customer developer visit [link](https://www.alunissage.tech/)
+Hi 👋, I'm Guillermo Navarro<br>A passionate software developer from Argentina<br><br>🌱 I’m currently learning ASSOCIATE DEGREE IN PROGRAMMING | NATIONAL TECHNOLOGICAL UNIVERSITY - BACHELOR´S DEGREE UN DATA ANALYSIS AND MANAGEMENT | NATIONAL UNIVERSITY OF SAN LUIS<br><br>🔭 I’m currently working on [Off Topic Chat!](https://github.com/BasiliscX/off-topic-chat/tree/develop)<br><br>💬 Ask me about Typescript, Java, C++.<br><br>📄 Know about my experiences: I work in the development of APIs at UTN, which optimize the workflow by converting documentation to digital data.<br><br>⚡ Fun fact: I am usually the one who keeps the meetings focused on the proposed topics 📊, but also the one who invites you for a beer after the meeting. 🍻
 
 ## Portfolio
 Visit my portfolio in this [link](https://www.navarroguillermo.com/)
